@@ -9,4 +9,6 @@
 
    ![Agregar nombre](./assets/readme/funcion1.png)
 
-- ❗**Validación de entrada:** Si el campo de texto está vacío o contiene caracteres no válidos, el sistema mostrará una alerta solicitando un nombre válido.
+**Validar que el campo no esté vacío:** En caso de que el usuario por error presione clic sin agregar nada o que este lo haga intencionalmente, le saldrá una alerta.
+
+   ![Lista de nombres](./assets/readme/funcion3.png)
